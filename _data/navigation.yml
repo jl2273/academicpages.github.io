@@ -8,26 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "English"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "中文"
+    url: /zh/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "GXU Profile"
+    url: https://prof.gxu.edu.cn/teacherDetails/690f641c-be6f-4938-8ed1-0503812a49d8
