@@ -43,4 +43,4 @@ Contact
 - **Address:** 100 Daxue East Road, Nanning, Guangxi 530004, China
 - **Official profile:** [Guangxi University Faculty Profile](https://prof.gxu.edu.cn/teacherDetails/690f641c-be6f-4938-8ed1-0503812a49d8)
 
-[中文版本]({{ site.baseurl }}/zh/)
+[中文简介（广西大学教师主页）](https://prof.gxu.edu.cn/teacherDetails/690f641c-be6f-4938-8ed1-0503812a49d8)
