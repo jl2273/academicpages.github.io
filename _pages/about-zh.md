@@ -40,4 +40,4 @@ lang: zh
 - **通讯地址：** 广西南宁市大学东路100号新闻与传播学院，邮编 530004
 - **官方主页：** [广西大学教师信息网](https://prof.gxu.edu.cn/teacherDetails/690f641c-be6f-4938-8ed1-0503812a49d8)
 
-[English version](/)
+[English version]({{ site.baseurl }}/)
